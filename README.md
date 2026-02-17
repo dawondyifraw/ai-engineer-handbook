@@ -4,6 +4,8 @@ This repo has all the resources you need to become an amazing AI engineer!
 
 ## Getting started
 
+### Join our [free Vibe Coding Bootcamp](https://learn.dataexpert.io/program/vibe-coding-bootcamp-with-adal-799) on Feb 21st and 22nd. We will help you build a SaaS in 48 hours with AI! 
+
 If you are new to AI engineering, start by learning the fundamentals of machine learning and then dive into large language models and prompt engineering.
 
 For more applied learning:
